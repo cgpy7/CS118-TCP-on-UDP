@@ -1,0 +1,622 @@
+Sion
+Base health regen decreased. E base damage decreased, damage ratio increased, and no longer deals bonus damage to secondary targets. E Armor shred now applies to secondary targets; duration increased.
+
+The bonus damage Sion does to secondary targets struck by Roar of the Slayer is just too much: too much waveclear, too much poke, too much long-ranged lane control. By having E apply the armor shred to all targets struck, Q damage will be higher on targets struck by E, and further incentivize him to max Q (or at least to ensure there are more tradeoffs when he does opt into the ranged control E offers).
+Base stats
+BASE HEALTH REGEN 10 per 5 seconds ? 9 per 5 seconds
+E - Roar of the Slayer
+BASE DAMAGE 70/105/140/175/210 ? 65/100/135/170/205
+ABILITY POWER RATIO 0.40 ability power ? 0.55 ability power
+SECONDARY TARGET DAMAGE 130% ? 100% to targets struck by a knocked-back enemy
+ARMOR REDUCTION 20% to primary target ? 20% to all targets hit by Roar of the Slayer or a knocked-back enemy
+ARMOR REDUCTION DURATION 2.5 seconds ? 4 seconds
+R - Unstoppable Onslaught
+NEWCOMING THROUGH Sion's ultimate is no longer obstructed by an allied Azir's R - Emperor's Divide
+
+Dr. Mundo
+R cost and cooldown increased.
+
+Last patch's changes helped bring Mundo's ultimate to a more satisfying level of power, but decisions around when to invoke that power are a bit too forgiving. A longer cooldown and higher costs should make the timing of those choices more important.
+R - Sadism
+COOLDOWN 100/85/70 seconds ? 110/100/90 seconds
+COST 20% current health ? 25% current health
+
+Poppy
+Movement speed increased.
+
+Poppy¡¯s changes last patch were intended to be approximately power neutral, but they ended up taking her down slightly. We're reverting the movement speed nerf to give Poppy more room to maneuver around fights (or just start them).
+Base stats
+MOVEMENT SPEED 340 ? 345
+
+Zac
+W ability power ratio removed. E and R ability power damage ratio increased.
+
+Much like the Shyvana changes last patch, we want to make sure that damage-building Zac feels significantly different from tank Zac. While tank Zac has the durability to sit on his opponents' faces spamming W, a damage-oriented Zac can't survive that punishment as easily. Shifting his AP ratios out of W and onto his higher-impact abilities should ensure that when Zac does build damage, he feels like he was made for it, literally.
+W - Unstable Matter
+REMOVEDABILITY POWER RATIO No longer deals an additional 2% targets' max health per 100 ability power (base max health damage unchanged)
+E - Elastic Slingshot
+RATIO 0.70 ability power ? 0.90 ability power
+R - Let's Bounce!
+RATIO 0.70 ability power ? 0.90 ability power
+
+Bard
+W mana cost decreased.
+
+The high mana cost of Bard's W limits his uptime, especially in the laning phase. With a lower mana cost, he won't have to choose quite as directly between providing some healing to himself or his allies and having the mana to make plays on the map.
+W - Caretaker's Shrine
+COST 90 mana ? 70 mana
+
+Kindred
+Small quality of life buff.
+Passive - Mark of the Kindred
+NEWPACK HUNTER If an ally kills a hunted jungle monster within 6 seconds of Kindred damaging it, Kindred will still acquire the passive stack
+Items
+UPDATED
+Runic Echoes
+Now builds out of Lost Chapter instead of Aether Wisp. Movement Speed removed. Cooldown reduction and Mana added.
+
+Mage junglers have been pretty scarce on the Rift for a while, and we're looking to change that. Changing Runic Echoes' buildpath to grant mana and cooldown reduction (both core mage stats) and increasing its overall stat efficiency should open the door for more mages to tango with jungle monsters.
+
+We've also made changes to Hunter's Talisman (check those out below) which should help spellcasters feel better about jungling even before they pick up Runic Echoes.
+TOTAL COST 2625 gold (unchanged)
+BUILD PATH Aether Wisp + Stalker's Blade + Amplifying Tome + 345 gold ? Stalker's Blade + Lost Chapter + 325 gold
+REMOVEDMOVEMENT SPEED 7%
+NEWMANA 300
+NEWCOOLDOWN REDUCTION 10%
+
+Warding Totem
+Wards last longer but have a higher cooldown.
+
+These changes increase the value of a well-placed ward, the cost of a bad one, and the payoff for successful ward-sweeping. Three birds, two stones!
+WARD DURATION 60-120 seconds (at levels 1-18) ? 90-180 seconds (at levels 1-18)
+CHARGE TIMER 180-90 seconds (at levels 1-18) ? 240-120 seconds (at levels 1-18)
+Support & Jungle Item Exclusivity
+You can no longer have both a jungle item and a support item.
+
+Jungle items and gold items are both tuned to give unique, lower-cost power to their roles, which often operate on lower incomes than farming roles. We've had to combat the occasional cannibalization of support gold items by junglers, and at this point it's safer to just cut that option off.
+YOU MUST CHOOSE WISELY You can no longer own Hunter's Machete, Hunter's Talisman, or their upgrades at the same time as Ancient Coin, Spellthief's Edge, Relic Shield, or their upgrades
+Runes
+Balance pass.
+Domination Sorcery Resolve Inspiration
+Cheap Shot damage increased. Ingenious Hunter item cooldown reduction more front-weighted toward initial value.
+
+Cheap Shot
+DAMAGE 12-30 ? 15-40
+Ingenious Hunter
+BASE ACTIVE ITEM COOLDOWN REDUCTION 10% ? 15%
+ACTIVE ITEM COOLDOWN REDUCTION PER STACK 6% ? 5%
+Jungle
+Camp Experience Rift Scuttler Items
+Jungle monsters give less experience, but experience scales with level.
+
+Junglers have had too much of an impact in the early game. Specifically, they¡¯ve too frequently been able to gank at level 3 before solo laners even reach that level. We¡¯re looking to decrease consistent access to early jungle pressure but offer a more valuable Rift Scuttler as a new way for junglers to gain a lead.
+REMOVEDSLOW DOWN Experience no longer reduced by 5% per level champion is ahead of the camp being taken.
+NEWRAID BOSS Monster camp experience now scales with level, capping at level 7.
+BLUE SENTINEL 180 ? 115 - 180 (at levels 1-7)
+RED BRAMBLEBACK 180 ? 115 - 180 (at levels 1-7)
+LARGE KRUG 125 ? 100 - 157 (at levels 1-7)
+MEDIUM KRUG 35 ? 35 - 55 (at levels 1-7)
+SMALL KRUG 7 ? 7 - 11 (at levels 1-7)
+LARGE WOLF 100 ? 65 - 102 (at levels 1-7)
+SMALL WOLVES 40 ? 25 - 39 (at levels 1-7)
+LARGE RAZORBEAK 62 ? 20 - 31 (at levels 1-7)
+SMALL RAZORBEAKS 35 ? 19 - 30 (at levels 1-7)
+GROMP 200 ? 115 - 180 (at levels 1-7)
+REMOVEDGRIMP Gromp no longer grants 37.5% reduced experience on its first clear
+REMOVEDFALSE START Medium Krugs, Small Krugs, and Large Razorbeak no longer grant 25% reduced experience on their first clear
+WHEATIES Large Krug's first clear experience reduction 50% ? 30%
+Bounties
+Kill streak bounties are now granted only to the killer, not the team.
+
+Currently, the rewards a player gets for performing well are too split amongst the whole team, and we'll be looking to remedy that over time. We're starting this patch with Bounties, shifting the reward from a team one to a personal one, and we'll be investigating other team rewards going forward
+HEADHUNTER Assists on bounty kills no longer grant bonus gold.
+ONE KILL 100 gold split among team ? No bounty
+TWO KILLS 150 gold split among team ? No bounty
+THREE KILLS 300 gold split among team ? 200 gold to killer
+FOUR KILLS 350 gold split among team ? 250 gold to killer
+FIVE KILLS 450 gold split among team ? 300 gold to killer
+SIX-PLUS KILLS 450 gold split among team ? 300 gold (+25 gold per kill beyond 5) to killer
+BOUNTY CHANGE ON BEING KILLED Dying removes 3 bounty levels ? Dying resets bounty to 0
+Replays
+You can now download the replays of other players¡¯ Ranked and Clash games.
+
+Whether scouting or reviewing replays of yourself or your Clash teammates, we want to make all competitive matches public domain for your perusal and improvement.
+REVIEW THE TAPE Clash matches will be available for download from an individual¡¯s Match History pages in the client
+SCOUT¡¯S CODE Ranked matches are now available for download from an individual¡¯s Match History pages in the client
+League Client
+Bugfixin'.
+LESS LAG Resolved an issue where the League Client was using more resources than it should have been while it was in the background. Higher end systems should see increased FPS.
+Bugfixes
+LeBlanc's E - Ethereal Chains now correctly reveals stealthed champions
+Fixed a bug where swapping Hexflash to a different summoner would prevent that summoner spell from being used while in-combat
+Kennen's W - Electrical Surge passive damage now correctly appears on Death Recap
+Swain's E - Nevermove no longer incorrectly deals double damage to epic monsters
+Presence of Mind now correctly reduces cooldowns for kills or assists while dead
+Talon¡¯s E - Assassin's Path will now be less likely to vault Talon in the opposite direction than was intended
+Bard no longer can stun units against Gangplank's E - Powder Keg with his Q - Cosmic Binding
+Garen's Q - Decisive Strike now correctly damages Teemo's R - Noxious Trap mushrooms
+League Voice will now be more respectful of your default communications device
+Beemo now flies out of the fountain at game start using Homeguard
+Battlecast Cho¡¯Gath¡¯s E - Vorpal Spikes now sound more in line with the skin¡¯s theme
+SFX now only play once during Dragon Trainer Lulu¡¯s dance
+Star Guardian Ahri¡¯s familiar no longer echos during Ahri¡¯s joke
+Activating Shurelya¡¯s Reverie will no longer cancel channels
+Upcoming Skins & Chromas
+The following skins will be released this patch:
+
+
+Pulsefire Riven
+
+Pulsefire Twisted Fate
+
+Pulsefire Shen
+The following chromas will be released this patch:
+
+
+Dragon Master Swain (Pearl)
+Dragon Master Swain (Tanzanite)
+Dragon Master Swain (Ruby)
+Dragon Master Swain (Emerald)
+Dragon Master Swain (Sapphire)
+Dragon Master Swain (Obsidian)
+Loot
+NEWSHINY Masterwork chests, which only contain cosmetics, will now be available for 1 gemstone in place of Hextech chests.
+
+
+Share16
+23 DAYS AGO
+PATCH
+TAGGED WITH: PATCH NOTES
+Discuss  (LOGIN TO COMMENT) 286   comments   sorted by   
+
+
+113
+
+Hey Riot I wondered if you can add pictures those specific runes when posting changes about runes. Plain words do not usually ring a bell among new league players, and for some people like me have to go back and forth to find what rune it actually is. A image will definitely be helpful. Same apply to other changes. Thx!
+
+
+ marzzzom  - 23 days ago
+
+
+53
+
+MY CABBAGES Rift Scuttler's chance of trying to steal a honeyfruit is significantly decreased
+
+i like that ATLA reference
+
+
+ Kawaiilicious  - 23 days ago
+3 MORE COMMENTS
+
+
+35
+
+put bone plating and chrysalis on the same row instead of nerf pls
+
+
+ PolitikZ  - 23 days ago
+3 MORE COMMENTS
+
+Comment is below threshold (Show)
+
+
+16
+
+Mundo is a Juggernaut, not a tank, he's supposed to deal heavy damage while building tank just like Darius, Garen, Susan, and the like, but they lack the level of durability that a tank would have and they have no engage or gap closers which is why they have such high base damage; if you let a juggernaut get on you you're supposed to die.
+
+
+ Hungry Cancer  - 23 days ago
+
+
+29
+
+Then again all other juggernauts have to build damage items to deal it. IE, Illaoi would commonly build Black Cleaver into Sterak's and then tank items after that. She gives up two or three slots to build damage. Mundo can build pure tank items and deal fucktons of damage because his kit provides him with far too many stats for free.
+
+So while he might be a "juggernaut", he builds purely like a tank.
+
+The only other one that doesn't is Volibear and he's a whole can of problems himself.
+
+
+ FurorDivinus27 (EUW)  - 23 days ago
+
+
+12
+
+Have y'all forgotten about that neat little effect called Grievous wounds? Mundo is strong, but half his kit is disabled by buying a rather cheap item.
+
+
+ Reaxetion  - 22 days ago
+
+
+-1
+
+Grevious wounds cuts his healing in half; to which, he has spirit visage, warmogs, his % HP passive, his ult, and specters cowl. Do you really think cutting 260+HP/second down to 130hp/second when he has 200+ armor 60+% phy Reduction, and 3.5k hp, while hitting you for 400+ at ANY range, with a 50% slow and up to, what, 75% CC reduction REALLY matters when he KILLS YOU FASTER THAN YOU CAN LIFESTEAL? Mortal Reminder helps, yes, but it doesn't save you the way an ADC is supposed to win 1v1 vs anything, by kiting, because his cleaver is a 50% slow. |:
+
+What, as an ADC, are you supposed to do? ignore him? Fight his team? Kite him?
+
+Play caitlin and hope he misses his first cleaver so you can run away?
+
+
+
+ Galgerahn  - 22 days ago
+
+
+12
+
+Grievous wounds reduces healing by 40%, not 50.
+
+Lets use your numbers. 3.5K health
+
+His passive normally heals .3% max health per second as his passive. He heals 10.5/sec
+His passive regen at 18 is 20.8/5. So another 4.16/sec
+Warmogs is disabled while in combat, so we are gonna ignore it.
+Ult will heal 3500/12 seconds. 291.67/second.
+Total without GW - 306.33/sec
+
+Grevious wounds reduces this by 40%, so now he is down to 183.8/second. Further, if he wants that tenacity from his W its gonna cost him 30 more health a second, so hes really only healing 153.8/second.
+
+If your team can't deal with 153.8 regen for 12 seconds, you dont deserve to win. (After 12 seconds, he is only regenerating 14.66/sec - or 8.8/sec with GW.)
+
+You can dodge his cleaver, or you can have an ally peel for you. Also, ADC's are not supposed to be able to 1v1 Juggernauts....
+
+
+ Reaxetion  - 22 days ago
+3 MORE COMMENTS
+2 MORE COMMENTS
+
+Comment is below threshold (Show)
+
+
+12
+
+Mundo is a fighter not a tank, that makes him just as much of a carry as Darius or Aatrox.
+
+
+ Hungry Cancer  - 23 days ago
+
+Comment is below threshold (Show)
+
+
+16
+
+Juggernauts and Divers are the 2 sub-categories of the fighter class, you may want to fact check before correcting next time amigo, so you can just check here for champ subclass info: https://na.leagueoflegends.com/en/news/game-updates/gameplay/taking-another-look-subclasses
+
+
+ Hungry Cancer  - 23 days ago
+
+
+0
+
+Mundo isn't a fighter, he's a juggernaut, and I wouldn't really say that a juggernaut is even a subcategory of fighter. It's more of a middle-ground between tank AND fighter: good damage, good tankiness, but lacks the initiating power of a tank and the ability of a fighter to stay on its target. In other words, he shouldn't be the one to start a fight, he should be strolling into it mid-punch.
+
+
+ Jazzy Jesus  - 22 days ago
+
+
+4
+
+I got you mate, but I'm going by Riot's official subclass system because that's the template they used to make the champ, and Mundo is officially considered a Juggernaut which is the immobile subclass of fighter in contrast to the Divers, they have plenty of base damage and mediocre ratios but generally have to build tank or bruiser at the very least in order to survive long enough to deal that damage and shit on people (the exception to this is Garen who gets enough tankiness from his kit that he can build crit but doesn't deal as much damage as other Juggs if he builds tanky). Tanks similarly break down into a mobile and immobile subclass paradigm as well with the Vanguards and the Wardens, and you can see very clear divides between the 4 subclasses and their 2 base classes with regard to their kits and purposes within a game or fight.
+
+Here's the link to the most recent subclass list, we should be getting an updated one soon:
+https://na.leagueoflegends.com/en/news/game-updates/gameplay/taking-another-look-subclasses
+
+
+ Hungry Cancer  - 22 days ago
+2 MORE COMMENTS
+4 MORE COMMENTS
+15 MORE COMMENTS
+
+
+18
+
+This seems like as good a time as any:
+
+What was the gameplay reason for Rift Scuttler taking honeyfruit in the first place? It's a neat, immersive interaction (I didn't question it at all when it happened, scuttle wants some sugar, cute), but I don't understand the purpose. Not that everything needs a purpose, but this is something that causes a second's delay, which could have a big impact if something big breaks out nearby and you juuust don't make it.
+
+
+ Larriet  - 23 days ago
+
+
+27
+
+They were never actually Honeyfruit, you were eating baby Scuttle Crabs this whole time!
+See, the babies like the honeyfruit, so they climb the vine and eat it, then big evil champion comes along and whack, and the baby Scuttles fall, and mama Scuttles is all like "OH NO MY BABIES!" and rushes over to help them.
+You should be ashamed is what you should be. Ashamed of eating poor defenseless little baby Scuttle Crabs.
+
+
+ grarrrg  - 23 days ago
+
+
+12
+
+Oh god
+
+
+ Larriet  - 23 days ago
+
+
+5
+
+Beautiful response that I hope becomes cannon. But also, I still wanna know the reasons behind the changes lol.
+
+
+ Reaxetion  - 22 days ago
+
+
+9
+
+if i remember correctly, some one could pop the plant, and leave the fruit there while a new one grows to double the amount on hand.
+the scuttler effectively stops you from having enough fruit to last you through winter.
+winter is coming.
+
+
+ keios2013  - 22 days ago
+
+
+21
+
+The Phase Rush changes isn't going to make it worth taking on anyone who already didn't previously, it's just not as valuable as other choices in Runes.
+
+
+ BobBurgerBelcher  - 23 days ago
+4 MORE COMMENTS
+
+
+21
+
+TL;DR, most jungle camps will be worth less experience early, but the Rift Scuttler will be worth a lot more. The jungler who can win the fight for River Crab
+
+TL;DR the strongest level 2 Jungler or the strongest early push mid/rotation on the team will have a HUGE advantage. You're going to limit the viability of junglers with weak level 2 if you do this. Seriously a bad move that you know you will in fact have to change in the future. Why make us suffer in the meantime? I've really been wondering about the design team as of late, this change can be immediately seen as a bad idea and Riot doesn't seem to care...
+
+
+ Epimyth  - 23 days ago
+
+
+-4
+
+soooo, lvl 2 jgs like lee and nid should be on the same lvl as mid late game jgs ? Nice logic there bud
+
+
+ Berserkerr  - 23 days ago
+
+
+9
+
+Those champions when ahead tend to snowball hard so it is a real concern. Also, Im more interested in champion viability than anything and I think anything that reduces the number of viable champions is a bad idea.
+
+
+ Epimyth  - 22 days ago
+2 MORE COMMENTS
+11 MORE COMMENTS
+
+
+19
+
+Gemstone change is appreciated. If I can ever get them.
+
+
+ WoopyD  - 23 days ago
+1 MORE COMMENTS
+
+
+-7
+
+and when is pyke, the new champion coming out???
+
+
+ SkySandOFGamer  - 23 days ago
+
+
+22
+
+They almost always put new champs on the PBE the first patch after the reveal, and assuming no significant bugs it'll go live the next patch after that.
+
+
+ Hungry Cancer  - 23 days ago
+3 MORE COMMENTS
+
+
+17
+
+lee sin nerfed again... with them ward cooldowns
+
+
+ Jonasauraus  - 23 days ago
+
+
+17
+
+Oh no, a nerf to the low-skill floor, high-skill ceiling, nearly-top-played champion who Riot has been favoring literally since release and gets a major buff before every Worlds to get Pros to play him because "flashy".
+
+What a terrible shame.
+
+
+ Shinjusuke  - 23 days ago
+2 MORE COMMENTS
+
+
+15
+
+That's why you buy, 
+
+
+ yahir84  - 23 days ago
+
+
+-1
+
+He should get a unique jungle ward item.
+
+
+ Whooogidy bear1  - 23 days ago
+
+
+4
+
+We should get Tracker's Knife back. From the patch notes, it sounded like the gold income was the issue, not the wards. So give us back the item that included wards, at the tradeoff of the Champion smite.
+
+
+ SignError  - 23 days ago
+1 MORE COMMENTS
+
+
+15
+
+"Rift Scuttler isn¡¯t the hotly contested objective we¡¯d like it to be..."
+Says anyone at Riot who doesn't play  .
+
+
+ BobBurgerBelcher  - 23 days ago
+
+
+8
+
+Now if she doesnt get the scuttle shes even more at a disadvantage haha
+
+
+ TranscendVirtual  - 23 days ago
+1 MORE COMMENTS
+
+ SkySandOFGamer  - deleted
+
+
+1
+
+RGM's will only be for events from now on, they announced that a few months ago.
+
+
+ Hungry Cancer  - 23 days ago
+
+
+14
+
+It doesn't mean that is what the community wants.
+
+
+ OfTheTreePeople  - 23 days ago
+
+
+3
+
+I never said it was, though the community's desires regarding RGM's is totally irrelevant so I don't know why you brought it up, but the statistics did support that few people were actually using them when they were always available and they were received far more enthusiastically when they're just used around events like they used to be.
+They also can't spend the resources for new RGM's if they have the guys on that team bogged down with the maintenance for constantly rotating game modes that people really don't care that much about when they're always available.
+
+
+ Hungry Cancer  - 23 days ago
+
+
+5
+
+I like how people downvote things that have no relation to whats above xD
+
+
+ Jin Seon  - 23 days ago
+
+
+4
+
+Of course people weren't enthusiastic about Poro King constantly being up and extremely rare URF and One for All. And this game exists purely for the community (as does every game that seeks to make money), so to say their desires are irrelevant doesn't really make sense.
+
+
+ OfTheTreePeople  - 23 days ago
+1 MORE COMMENTS
+2 MORE COMMENTS
+1 MORE COMMENTS
+1 MORE COMMENTS
+
+
+-4
+
+"LeBlanc's R - Mimic no longer causes her E - Ethereal Chains to reveal stealthed champions"
+
+Is that a typo? Cause if not, it's not a bugfix, it's a significant nerf.
+
+And what happened to all the actual Leblanc bugfixes and spell buffering improvements Meddler promised for this patch?
+
+
+ Heizenbjerg  - 23 days ago
+
+
+15
+
+I think her E is supposed to trigger that "shimmer" effect on stealthed champions, not fully reveal them. That's the bug
+
+
+ Armenian Bot  - 23 days ago
+2 MORE COMMENTS
+
+
+11
+
+Wow, the bounty changes finally made it in! I don't get the bone plating nerf though. It's not that bone plating is so amazing, it's that nothing else on that row is very appealing. Demolish is only for laners who excel at tower taking (trundle, yorick for example), and Font just doesn't do enough.
+
+A lot of the issue is how bursty everything is. Bone plating is one of the few runes that help from getting exploded. Font and Second Wind could potentially be a lot stronger if fights laster longer than they do now. At current you never get the full use of those runes because you are dead by the time you would get the entire regen.
+
+
+ Velasan  - 23 days ago
+
+
+5
+
+I feel like the bounty changes are kinda toxic, but it does do something about the snowball problem. I definitely agree with you on Bone Plating though.
+
+
+ Pinkaj  - 23 days ago
+1 MORE COMMENTS
+
+
+7
+
+Riot, why do you continue to force meta changes and drastic champion changes mid-season? By Patch 8.10, this game is as close to 8.1 as season 3 was to season 5. Why even bother calling it a season?
+
+I would far prefer a league for non master/challenger that only gave us the tweaks that were necessary to keep massive balances in check. Even as a person that usually plays multiple games per day, I find it impossible to keep up with the massively changing dynamics in a way that allows me to climb efficiently. I only wonder what the experience is like for people that can only play ont he weekends.
+
+You're killing the casual crowd and making new player retention way harder than it has to be.
+
+
+ Bull Buchanan  - 23 days ago
+
+
+9
+
+I really enjoy the frequency of massive balance changes. Really sets the game apart form other games (like Overwatch) that have only small updates every month or so. We get meta changing patches every two weeks and I for one love it.
+
+
+ Support Garen  - 23 days ago
+
+
+3
+
+Well, I've been playing since the Beta, and I find it impossible to master all of the new information within the 2 weeks between patches to understand exactly how every situation will play out in ranked. that nearly a decade worth of experience is borderline useless with each coming patch. I prefer games that can be mastered over time as opposed to ones that focus on chasing exploits.
+
+
+ Bull Buchanan  - 23 days ago
+
+
+5
+
+I feel you, I'v been playing this game from the start and I too feel like the game is non-stop changing...
+
+
+ Tarardamir  - 23 days ago
+1 MORE COMMENTS
+1 MORE COMMENTS
+
+
+4
+
+it's to keep the game fresh, instead of stagnating.
+
+
+ keios2013  - 22 days ago
+5 MORE COMMENTS
+
+
+-5
+
+I'm gonna get downvoted to hell but I'll keep saying it. Riot please listen to the Zac mains Reddit like you did with LeBlanc and revert  , or at least revert his ultimate. Previous Zac mains are still holding onto the hope that you actually listen to what we have to say.
+
+
+ Gamma Anomaly  - 23 days ago
+19 MORE COMMENTS
+SHOW MORE COMMENTS
