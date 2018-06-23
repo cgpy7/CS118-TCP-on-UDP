@@ -1,8 +1,7 @@
 # Project 2 README.MD
 
 # A server and client model running TCP protocol was implemented in the project. The retransmission time out is 0.5 seconds.
-# By following the command lines listed below, the server will be able to listen and handle requests from the client, which
-# will typically request a file from the server. For more details, please refer to the report.pdf.
+# The server will be able to listen and handle requests from the client, which will typically request a file from the server. # For more details, please refer to the project report.
 
 # Student1 Name: Jack(Chenwei) Gong    UID: 005025415      workload: client design 
 # Student2 Name: Jason Mao             UID: 205027376      workload: server design      
